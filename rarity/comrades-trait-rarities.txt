@@ -879,7 +879,7 @@ Rank 00176
   Frequency: 130
 
 Rank 00177
-  Trait Type: Head - Blockchain Maintanance Helmet
+  Trait Type: Head - Blockchain Maintenance Helmet
   Rarity Score: 75.88
   Frequency: 131
 
