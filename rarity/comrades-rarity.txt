@@ -3743,7 +3743,7 @@ Rank 00833 - Comrade #06944 (Comrade #6944)
   Boost: 1000
 
 Rank 00834 - Comrade #02145 (Comrade #2145)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 00835 - Comrade #04444 (Comrade #4444)
@@ -3907,7 +3907,7 @@ Rank 00874 - Comrade #03596 (Comrade #3596)
   Boost: 1000
 
 Rank 00875 - Comrade #07804 (Comrade #7804)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 00876 - Comrade #08348 (Comrade #8348)
@@ -3919,7 +3919,7 @@ Rank 00877 - Comrade #02828 (Comrade #2828)
   Boost: 1000
 
 Rank 00878 - Comrade #00669 (Comrade #669)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 00879 - Comrade #07931 (Comrade #7931)
@@ -4887,11 +4887,11 @@ Rank 01119 - Comrade #09019 (Comrade #9019)
   Boost: 1000
 
 Rank 01120 - Comrade #06122 (Comrade #6122)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 01121 - Comrade #08930 (Comrade #8930)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 01122 - Comrade #08487 (Comrade #8487)
@@ -4915,7 +4915,7 @@ Rank 01126 - Comrade #04730 (Comrade #4730)
   Boost: 1000
 
 Rank 01127 - Comrade #08923 (Comrade #8923)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 01128 - Comrade #08971 (Comrade #8971)
@@ -5091,7 +5091,7 @@ Rank 01170 - Comrade #01016 (Comrade #1016)
   Boost: 0
 
 Rank 01171 - Comrade #07953 (Comrade #7953)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 01172 - Comrade #02099 (Comrade #2099)
@@ -5303,11 +5303,11 @@ Rank 01223 - Comrade #07963 (Comrade #7963)
   Boost: 1000
 
 Rank 01224 - Comrade #02259 (Comrade #2259)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 01225 - Comrade #01006 (Comrade #1006)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 01226 - Comrade #01334 (Comrade #1334)
@@ -5467,7 +5467,7 @@ Rank 01264 - Comrade #00586 (Comrade #586)
   Boost: 1000
 
 Rank 01265 - Comrade #02756 (Comrade #2756)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 01266 - Comrade #04485 (Comrade #4485)
@@ -5479,7 +5479,7 @@ Rank 01267 - Comrade #04228 (Comrade #4228)
   Boost: 1000
 
 Rank 01268 - Comrade #03605 (Comrade #3605)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 01269 - Comrade #02027 (Comrade #2027)
@@ -5599,7 +5599,7 @@ Rank 01297 - Comrade #05971 (Comrade #5971)
   Boost: 1000
 
 Rank 01298 - Comrade #05002 (Comrade #5002)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 01299 - Comrade #05524 (Comrade #5524)
@@ -5691,7 +5691,7 @@ Rank 01320 - Comrade #09448 (Comrade #9448)
   Boost: 1000
 
 Rank 01321 - Comrade #02337 (Comrade #2337)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 1000
 
 Rank 01322 - Comrade #08532 (Comrade #8532)
@@ -5739,7 +5739,7 @@ Rank 01332 - Comrade #03981 (Comrade #3981)
   Boost: 1000
 
 Rank 01333 - Comrade #04711 (Comrade #4711)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 01334 - Comrade #08789 (Comrade #8789)
@@ -5747,7 +5747,7 @@ Rank 01334 - Comrade #08789 (Comrade #8789)
   Boost: 1000
 
 Rank 01335 - Comrade #08015 (Comrade #8015)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 01336 - Comrade #09333 (Comrade #9333)
@@ -5767,7 +5767,7 @@ Rank 01339 - Comrade #07656 (Comrade #7656)
   Boost: 1000
 
 Rank 01340 - Comrade #02993 (Comrade #2993)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 01341 - Comrade #00071 (Comrade #71)
@@ -5863,7 +5863,7 @@ Rank 01363 - Comrade #09362 (Comrade #9362)
   Boost: 1000
 
 Rank 01364 - Comrade #09605 (Comrade #9605)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 1000
 
 Rank 01365 - Comrade #09136 (Comrade #9136)
@@ -6163,7 +6163,7 @@ Rank 01438 - Comrade #02793 (Comrade #2793)
   Boost: 1000
 
 Rank 01439 - Comrade #04541 (Comrade #4541)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 1000
 
 Rank 01440 - Comrade #04843 (Comrade #4843)
@@ -16003,7 +16003,7 @@ Rank 03898 - Comrade #01225 (Comrade #1225)
   Boost: 0
 
 Rank 03899 - Comrade #05676 (Comrade #5676)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 03900 - Comrade #04841 (Comrade #4841)
@@ -17103,7 +17103,7 @@ Rank 04173 - Comrade #09128 (Comrade #9128)
   Boost: 0
 
 Rank 04174 - Comrade #03210 (Comrade #3210)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 04175 - Comrade #09577 (Comrade #9577)
@@ -17179,7 +17179,7 @@ Rank 04192 - Comrade #01629 (Comrade #1629)
   Boost: 0
 
 Rank 04193 - Comrade #08925 (Comrade #8925)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 04194 - Comrade #08012 (Comrade #8012)
@@ -20155,7 +20155,7 @@ Rank 04936 - Comrade #01140 (Comrade #1140)
   Boost: 0
 
 Rank 04937 - Comrade #00757 (Comrade #757)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 04938 - Comrade #04307 (Comrade #4307)
@@ -20787,7 +20787,7 @@ Rank 05094 - Comrade #01139 (Comrade #1139)
   Boost: 0
 
 Rank 05095 - Comrade #08684 (Comrade #8684)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 05096 - Comrade #01052 (Comrade #1052)
@@ -21027,7 +21027,7 @@ Rank 05154 - Comrade #07212 (Comrade #7212)
   Boost: 0
 
 Rank 05155 - Comrade #03114 (Comrade #3114)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 05156 - Comrade #03734 (Comrade #3734)
@@ -21183,7 +21183,7 @@ Rank 05193 - Comrade #09683 (Comrade #9683)
   Boost: 0
 
 Rank 05194 - Comrade #09609 (Comrade #9609)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 05195 - Comrade #06471 (Comrade #6471)
@@ -21711,7 +21711,7 @@ Rank 05325 - Comrade #03261 (Comrade #3261)
   Boost: 0
 
 Rank 05326 - Comrade #04531 (Comrade #4531)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 05327 - Comrade #09205 (Comrade #9205)
@@ -24727,7 +24727,7 @@ Rank 06079 - Comrade #09378 (Comrade #9378)
   Boost: 0
 
 Rank 06080 - Comrade #09020 (Comrade #9020)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 06081 - Comrade #04484 (Comrade #4484)
@@ -25311,7 +25311,7 @@ Rank 06225 - Comrade #04783 (Comrade #4783)
   Boost: 0
 
 Rank 06226 - Comrade #05238 (Comrade #5238)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 06227 - Comrade #07527 (Comrade #7527)
@@ -26723,7 +26723,7 @@ Rank 06578 - Comrade #02626 (Comrade #2626)
   Boost: 0
 
 Rank 06579 - Comrade #07858 (Comrade #7858)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 06580 - Comrade #05842 (Comrade #5842)
@@ -26815,7 +26815,7 @@ Rank 06601 - Comrade #01152 (Comrade #1152)
   Boost: 0
 
 Rank 06602 - Comrade #00500 (Comrade #500)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 06603 - Comrade #03095 (Comrade #3095)
@@ -27335,7 +27335,7 @@ Rank 06731 - Comrade #06304 (Comrade #6304)
   Boost: 0
 
 Rank 06732 - Comrade #06609 (Comrade #6609)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 06733 - Comrade #07955 (Comrade #7955)
@@ -28047,7 +28047,7 @@ Rank 06909 - Comrade #05626 (Comrade #5626)
   Boost: 0
 
 Rank 06910 - Comrade #04625 (Comrade #4625)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 06911 - Comrade #09565 (Comrade #9565)
@@ -28555,7 +28555,7 @@ Rank 07036 - Comrade #08242 (Comrade #8242)
   Boost: 0
 
 Rank 07037 - Comrade #01259 (Comrade #1259)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07038 - Comrade #09419 (Comrade #9419)
@@ -28587,7 +28587,7 @@ Rank 07044 - Comrade #06529 (Comrade #6529)
   Boost: 0
 
 Rank 07045 - Comrade #04179 (Comrade #4179)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07046 - Comrade #07557 (Comrade #7557)
@@ -28675,7 +28675,7 @@ Rank 07066 - Comrade #03192 (Comrade #3192)
   Boost: 0
 
 Rank 07067 - Comrade #05374 (Comrade #5374)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07068 - Comrade #09171 (Comrade #9171)
@@ -28959,7 +28959,7 @@ Rank 07137 - Comrade #03541 (Comrade #3541)
   Boost: 0
 
 Rank 07138 - Comrade #04189 (Comrade #4189)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07139 - Comrade #01260 (Comrade #1260)
@@ -28971,7 +28971,7 @@ Rank 07140 - Comrade #07484 (Comrade #7484)
   Boost: 0
 
 Rank 07141 - Comrade #00316 (Comrade #316)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07142 - Comrade #01372 (Comrade #1372)
@@ -29159,7 +29159,7 @@ Rank 07187 - Comrade #03682 (Comrade #3682)
   Boost: 0
 
 Rank 07188 - Comrade #05474 (Comrade #5474)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07189 - Comrade #09804 (Comrade #9804)
@@ -29267,7 +29267,7 @@ Rank 07214 - Comrade #06723 (Comrade #6723)
   Boost: 0
 
 Rank 07215 - Comrade #08214 (Comrade #8214)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 07216 - Comrade #01901 (Comrade #1901)
@@ -29427,7 +29427,7 @@ Rank 07254 - Comrade #04773 (Comrade #4773)
   Boost: 0
 
 Rank 07255 - Comrade #08308 (Comrade #8308)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07256 - Comrade #01687 (Comrade #1687)
@@ -29815,7 +29815,7 @@ Rank 07351 - Comrade #05515 (Comrade #5515)
   Boost: 0
 
 Rank 07352 - Comrade #07683 (Comrade #7683)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07353 - Comrade #01718 (Comrade #1718)
@@ -29839,7 +29839,7 @@ Rank 07357 - Comrade #00875 (Comrade #875)
   Boost: 0
 
 Rank 07358 - Comrade #08065 (Comrade #8065)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07359 - Comrade #07008 (Comrade #7008)
@@ -29907,7 +29907,7 @@ Rank 07374 - Comrade #05871 (Comrade #5871)
   Boost: 0
 
 Rank 07375 - Comrade #03837 (Comrade #3837)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07376 - Comrade #07573 (Comrade #7573)
@@ -30143,7 +30143,7 @@ Rank 07433 - Comrade #01912 (Comrade #1912)
   Boost: 0
 
 Rank 07434 - Comrade #06710 (Comrade #6710)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07435 - Comrade #05993 (Comrade #5993)
@@ -30275,7 +30275,7 @@ Rank 07466 - Comrade #06269 (Comrade #6269)
   Boost: 0
 
 Rank 07467 - Comrade #06985 (Comrade #6985)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07468 - Comrade #02875 (Comrade #2875)
@@ -30375,7 +30375,7 @@ Rank 07491 - Comrade #07323 (Comrade #7323)
   Boost: 0
 
 Rank 07492 - Comrade #07472 (Comrade #7472)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07493 - Comrade #06515 (Comrade #6515)
@@ -30399,7 +30399,7 @@ Rank 07497 - Comrade #03646 (Comrade #3646)
   Boost: 0
 
 Rank 07498 - Comrade #05686 (Comrade #5686)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07499 - Comrade #03742 (Comrade #3742)
@@ -30699,7 +30699,7 @@ Rank 07572 - Comrade #08991 (Comrade #8991)
   Boost: 0
 
 Rank 07573 - Comrade #06261 (Comrade #6261)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07574 - Comrade #05359 (Comrade #5359)
@@ -31139,7 +31139,7 @@ Rank 07682 - Comrade #04706 (Comrade #4706)
   Boost: 0
 
 Rank 07683 - Comrade #01933 (Comrade #1933)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07684 - Comrade #00390 (Comrade #390)
@@ -31243,7 +31243,7 @@ Rank 07708 - Comrade #04429 (Comrade #4429)
   Boost: 0
 
 Rank 07709 - Comrade #07211 (Comrade #7211)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07710 - Comrade #05209 (Comrade #5209)
@@ -31275,7 +31275,7 @@ Rank 07716 - Comrade #07294 (Comrade #7294)
   Boost: 0
 
 Rank 07717 - Comrade #07727 (Comrade #7727)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07718 - Comrade #09583 (Comrade #9583)
@@ -31683,7 +31683,7 @@ Rank 07818 - Comrade #06498 (Comrade #6498)
   Boost: 0
 
 Rank 07819 - Comrade #00494 (Comrade #494)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07820 - Comrade #06302 (Comrade #6302)
@@ -31859,7 +31859,7 @@ Rank 07862 - Comrade #00046 (Comrade #46)
   Boost: 0
 
 Rank 07863 - Comrade #09562 (Comrade #9562)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07864 - Comrade #07495 (Comrade #7495)
@@ -32179,7 +32179,7 @@ Rank 07942 - Comrade #00459 (Comrade #459)
   Boost: 0
 
 Rank 07943 - Comrade #05568 (Comrade #5568)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07944 - Comrade #03327 (Comrade #3327)
@@ -32231,7 +32231,7 @@ Rank 07955 - Comrade #01555 (Comrade #1555)
   Boost: 0
 
 Rank 07956 - Comrade #00904 (Comrade #904)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07957 - Comrade #06825 (Comrade #6825)
@@ -32275,7 +32275,7 @@ Rank 07966 - Comrade #04916 (Comrade #4916)
   Boost: 0
 
 Rank 07967 - Comrade #02050 (Comrade #2050)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07968 - Comrade #05120 (Comrade #5120)
@@ -32283,7 +32283,7 @@ Rank 07968 - Comrade #05120 (Comrade #5120)
   Boost: 0
 
 Rank 07969 - Comrade #08663 (Comrade #8663)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 07970 - Comrade #09262 (Comrade #9262)
@@ -32419,7 +32419,7 @@ Rank 08002 - Comrade #03140 (Comrade #3140)
   Boost: 0
 
 Rank 08003 - Comrade #08164 (Comrade #8164)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08004 - Comrade #02896 (Comrade #2896)
@@ -33155,7 +33155,7 @@ Rank 08186 - Comrade #05146 (Comrade #5146)
   Boost: 0
 
 Rank 08187 - Comrade #03204 (Comrade #3204)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08188 - Comrade #03535 (Comrade #3535)
@@ -33419,7 +33419,7 @@ Rank 08252 - Comrade #00858 (Comrade #858)
   Boost: 0
 
 Rank 08253 - Comrade #00041 (Comrade #41)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08254 - Comrade #08338 (Comrade #8338)
@@ -33571,7 +33571,7 @@ Rank 08290 - Comrade #08975 (Comrade #8975)
   Boost: 0
 
 Rank 08291 - Comrade #03342 (Comrade #3342)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08292 - Comrade #05680 (Comrade #5680)
@@ -33691,7 +33691,7 @@ Rank 08320 - Comrade #08167 (Comrade #8167)
   Boost: 0
 
 Rank 08321 - Comrade #08396 (Comrade #8396)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08322 - Comrade #09418 (Comrade #9418)
@@ -33775,7 +33775,7 @@ Rank 08341 - Comrade #04368 (Comrade #4368)
   Boost: 0
 
 Rank 08342 - Comrade #00254 (Comrade #254)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 08343 - Comrade #09353 (Comrade #9353)
@@ -33887,7 +33887,7 @@ Rank 08369 - Comrade #02390 (Comrade #2390)
   Boost: 0
 
 Rank 08370 - Comrade #05321 (Comrade #5321)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 08371 - Comrade #02770 (Comrade #2770)
@@ -34239,7 +34239,7 @@ Rank 08457 - Comrade #03568 (Comrade #3568)
   Boost: 0
 
 Rank 08458 - Comrade #08213 (Comrade #8213)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08459 - Comrade #09027 (Comrade #9027)
@@ -34335,7 +34335,7 @@ Rank 08481 - Comrade #03299 (Comrade #3299)
   Boost: 0
 
 Rank 08482 - Comrade #00319 (Comrade #319)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08483 - Comrade #02224 (Comrade #2224)
@@ -34979,7 +34979,7 @@ Rank 08642 - Comrade #07998 (Comrade #7998)
   Boost: 0
 
 Rank 08643 - Comrade #05261 (Comrade #5261)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 08644 - Comrade #07252 (Comrade #7252)
@@ -35279,7 +35279,7 @@ Rank 08717 - Comrade #01149 (Comrade #1149)
   Boost: 0
 
 Rank 08718 - Comrade #03976 (Comrade #3976)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 08719 - Comrade #09039 (Comrade #9039)
@@ -35427,7 +35427,7 @@ Rank 08754 - Comrade #03779 (Comrade #3779)
   Boost: 0
 
 Rank 08755 - Comrade #08246 (Comrade #8246)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 08756 - Comrade #06071 (Comrade #6071)
@@ -35547,7 +35547,7 @@ Rank 08784 - Comrade #05518 (Comrade #5518)
   Boost: 0
 
 Rank 08785 - Comrade #01646 (Comrade #1646)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08786 - Comrade #09614 (Comrade #9614)
@@ -35639,7 +35639,7 @@ Rank 08807 - Comrade #06691 (Comrade #6691)
   Boost: 0
 
 Rank 08808 - Comrade #01327 (Comrade #1327)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 08809 - Comrade #07041 (Comrade #7041)
@@ -36003,7 +36003,7 @@ Rank 08898 - Comrade #07287 (Comrade #7287)
   Boost: 0
 
 Rank 08899 - Comrade #03324 (Comrade #3324)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08900 - Comrade #07273 (Comrade #7273)
@@ -36095,7 +36095,7 @@ Rank 08921 - Comrade #00540 (Comrade #540)
   Boost: 0
 
 Rank 08922 - Comrade #05601 (Comrade #5601)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 08923 - Comrade #06607 (Comrade #6607)
@@ -36759,7 +36759,7 @@ Rank 09087 - Comrade #01095 (Comrade #1095)
   Boost: 0
 
 Rank 09088 - Comrade #08063 (Comrade #8063)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 09089 - Comrade #00835 (Comrade #835)
@@ -36975,7 +36975,7 @@ Rank 09141 - Comrade #00931 (Comrade #931)
   Boost: 0
 
 Rank 09142 - Comrade #04880 (Comrade #4880)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09143 - Comrade #04415 (Comrade #4415)
@@ -37111,7 +37111,7 @@ Rank 09175 - Comrade #03727 (Comrade #3727)
   Boost: 0
 
 Rank 09176 - Comrade #03354 (Comrade #3354)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 09177 - Comrade #02917 (Comrade #2917)
@@ -37119,7 +37119,7 @@ Rank 09177 - Comrade #02917 (Comrade #2917)
   Boost: 0
 
 Rank 09178 - Comrade #02585 (Comrade #2585)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09179 - Comrade #05172 (Comrade #5172)
@@ -37319,7 +37319,7 @@ Rank 09227 - Comrade #03045 (Comrade #3045)
   Boost: 0
 
 Rank 09228 - Comrade #05895 (Comrade #5895)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09229 - Comrade #04971 (Comrade #4971)
@@ -37407,7 +37407,7 @@ Rank 09249 - Comrade #05379 (Comrade #5379)
   Boost: 0
 
 Rank 09250 - Comrade #05311 (Comrade #5311)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09251 - Comrade #05444 (Comrade #5444)
@@ -37611,7 +37611,7 @@ Rank 09300 - Comrade #03285 (Comrade #3285)
   Boost: 0
 
 Rank 09301 - Comrade #02020 (Comrade #2020)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09302 - Comrade #09322 (Comrade #9322)
@@ -37695,7 +37695,7 @@ Rank 09321 - Comrade #01135 (Comrade #1135)
   Boost: 0
 
 Rank 09322 - Comrade #08106 (Comrade #8106)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 09323 - Comrade #09273 (Comrade #9273)
@@ -37711,7 +37711,7 @@ Rank 09325 - Comrade #03305 (Comrade #3305)
   Boost: 0
 
 Rank 09326 - Comrade #07443 (Comrade #7443)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09327 - Comrade #05313 (Comrade #5313)
@@ -37771,7 +37771,7 @@ Rank 09340 - Comrade #07360 (Comrade #7360)
   Boost: 0
 
 Rank 09341 - Comrade #00976 (Comrade #976)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09342 - Comrade #07099 (Comrade #7099)
@@ -37931,7 +37931,7 @@ Rank 09380 - Comrade #06056 (Comrade #6056)
   Boost: 0
 
 Rank 09381 - Comrade #01541 (Comrade #1541)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09382 - Comrade #01198 (Comrade #1198)
@@ -38115,7 +38115,7 @@ Rank 09426 - Comrade #01734 (Comrade #1734)
   Boost: 0
 
 Rank 09427 - Comrade #01466 (Comrade #1466)
-  Rarest Trait: Head - Blockchain Maintanance Helmet
+  Rarest Trait: Head - Blockchain Maintenance Helmet
   Boost: 0
 
 Rank 09428 - Comrade #08107 (Comrade #8107)
@@ -38231,7 +38231,7 @@ Rank 09455 - Comrade #08358 (Comrade #8358)
   Boost: 0
 
 Rank 09456 - Comrade #05950 (Comrade #5950)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09457 - Comrade #03351 (Comrade #3351)
@@ -38399,7 +38399,7 @@ Rank 09497 - Comrade #01860 (Comrade #1860)
   Boost: 0
 
 Rank 09498 - Comrade #00116 (Comrade #116)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09499 - Comrade #07928 (Comrade #7928)
@@ -38511,7 +38511,7 @@ Rank 09525 - Comrade #08905 (Comrade #8905)
   Boost: 0
 
 Rank 09526 - Comrade #04891 (Comrade #4891)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09527 - Comrade #06900 (Comrade #6900)
@@ -38615,7 +38615,7 @@ Rank 09551 - Comrade #03673 (Comrade #3673)
   Boost: 0
 
 Rank 09552 - Comrade #05577 (Comrade #5577)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09553 - Comrade #01314 (Comrade #1314)
@@ -38819,11 +38819,11 @@ Rank 09602 - Comrade #02221 (Comrade #2221)
   Boost: 0
 
 Rank 09603 - Comrade #09257 (Comrade #9257)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09604 - Comrade #07829 (Comrade #7829)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09605 - Comrade #09284 (Comrade #9284)
@@ -38947,7 +38947,7 @@ Rank 09634 - Comrade #01846 (Comrade #1846)
   Boost: 0
 
 Rank 09635 - Comrade #03321 (Comrade #3321)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09636 - Comrade #03822 (Comrade #3822)
@@ -39131,7 +39131,7 @@ Rank 09680 - Comrade #04638 (Comrade #4638)
   Boost: 0
 
 Rank 09681 - Comrade #05649 (Comrade #5649)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09682 - Comrade #07729 (Comrade #7729)
@@ -39255,7 +39255,7 @@ Rank 09711 - Comrade #09069 (Comrade #9069)
   Boost: 0
 
 Rank 09712 - Comrade #06475 (Comrade #6475)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09713 - Comrade #04777 (Comrade #4777)
@@ -39371,7 +39371,7 @@ Rank 09740 - Comrade #08714 (Comrade #8714)
   Boost: 0
 
 Rank 09741 - Comrade #03619 (Comrade #3619)
-  Rarest Trait: Eyes - Quadrupel Block Vision
+  Rarest Trait: Eyes - Quadruple Block Vision
   Boost: 0
 
 Rank 09742 - Comrade #04024 (Comrade #4024)
@@ -39387,7 +39387,7 @@ Rank 09744 - Comrade #07803 (Comrade #7803)
   Boost: 0
 
 Rank 09745 - Comrade #03791 (Comrade #3791)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09746 - Comrade #07575 (Comrade #7575)
@@ -39431,7 +39431,7 @@ Rank 09755 - Comrade #08146 (Comrade #8146)
   Boost: 0
 
 Rank 09756 - Comrade #08058 (Comrade #8058)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09757 - Comrade #06412 (Comrade #6412)
@@ -39487,7 +39487,7 @@ Rank 09769 - Comrade #07645 (Comrade #7645)
   Boost: 0
 
 Rank 09770 - Comrade #02916 (Comrade #2916)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09771 - Comrade #08959 (Comrade #8959)
@@ -39507,7 +39507,7 @@ Rank 09774 - Comrade #02527 (Comrade #2527)
   Boost: 0
 
 Rank 09775 - Comrade #08288 (Comrade #8288)
-  Rarest Trait: Mouth - Quadrupel Block Speak
+  Rarest Trait: Mouth - Quadruple Block Speak
   Boost: 0
 
 Rank 09776 - Comrade #08134 (Comrade #8134)
